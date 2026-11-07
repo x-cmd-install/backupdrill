@@ -1,15 +1,15 @@
-# cli
+# backupdrill
 
 [中文版本](./README.cn.md)
 
 Open-source CLI to back up a Supabase project (Postgres + Storage) to your own S3/R2/B2 bucket — and restore-drill it to prove the backup restores. Engine of backupdrill.com.
 
-[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cli.svg)](https://x-cmd.com/install/cli)
+[![x-cmd/install — backupdrill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/backupdrill.svg)](https://x-cmd.com/install/backupdrill)
 
 ## Install
 
 ```sh
-x install cli
+x install backupdrill
 ```
 
 ## Code insight
@@ -51,10 +51,10 @@ Total: **21,712** lines of code across **85** files in the top 5 languages.
 
 ## Improve this data
 
-Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+Install metadata for backupdrill lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `backupdrill` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/src/db-pg/backupdrill.yml>
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
