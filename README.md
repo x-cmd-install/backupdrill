@@ -14,12 +14,12 @@ x install cli
 
 ## Code insight
 
-Total: **22,192** lines of code across **87** files in the top 5 languages.
+Total: **23,644** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 10,521 | 623 | 701 | 47 |
-| TypeScript | 10,425 | 2,050 | 576 | 33 |
+| JavaScript | 11,218 | 651 | 719 | 49 |
+| TypeScript | 11,180 | 2,208 | 596 | 34 |
 | Yaml | 539 | 117 | 133 | 3 |
 | Sql | 304 | 29 | 34 | 2 |
 | Sh | 216 | 77 | 32 | 2 |
@@ -36,18 +36,18 @@ Total: **22,192** lines of code across **87** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 68 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 187
+- **Releases**: 0 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 48 | 0 | 0 | 0 | 51 |
-| last60d | 2026-09-22 | 0 | 63 | 0 | 0 | 1 | 65 |
-| 90d | 2026-08-23 | 0 | 68 | 0 | 0 | 1 | 112 |
-| last180d | 2026-05-25 | 0 | 68 | 0 | 0 | 1 | 176 |
-| 360d | 2025-11-26 | 0 | 68 | 0 | 0 | 1 | 176 |
-| last720d | 2024-12-01 | 0 | 68 | 0 | 0 | 1 | 187 |
+| 30d | 2026-10-23 | 0 | 50 | 0 | 0 | 0 | 37 |
+| last60d | 2026-09-23 | 0 | 65 | 0 | 0 | 1 | 63 |
+| 90d | 2026-08-24 | 0 | 70 | 0 | 0 | 1 | 110 |
+| last180d | 2026-05-26 | 0 | 70 | 0 | 0 | 1 | 178 |
+| 360d | 2025-11-27 | 0 | 70 | 0 | 0 | 1 | 178 |
+| last720d | 2024-12-02 | 0 | 70 | 0 | 0 | 1 | 189 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:58:54Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:34:38Z._
