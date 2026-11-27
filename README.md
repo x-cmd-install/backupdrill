@@ -14,7 +14,7 @@ x install cli
 
 ## Code insight
 
-Total: **23,844** lines of code across **90** files in the top 5 languages.
+Total: **23,882** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -36,18 +36,18 @@ Total: **23,844** lines of code across **90** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 190
+- **Releases**: 0 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 193
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 41 | 0 | 0 | 0 | 38 |
-| last60d | 2026-09-27 | 0 | 65 | 0 | 0 | 1 | 64 |
-| 90d | 2026-08-28 | 0 | 71 | 0 | 0 | 1 | 111 |
-| last180d | 2026-05-30 | 0 | 71 | 0 | 0 | 1 | 179 |
-| 360d | 2025-12-01 | 0 | 71 | 0 | 0 | 1 | 179 |
-| last720d | 2024-12-06 | 0 | 71 | 0 | 0 | 1 | 190 |
+| 30d | 2026-10-28 | 0 | 41 | 0 | 0 | 0 | 41 |
+| last60d | 2026-09-28 | 0 | 68 | 0 | 0 | 1 | 67 |
+| 90d | 2026-08-29 | 0 | 73 | 0 | 0 | 1 | 114 |
+| last180d | 2026-05-31 | 0 | 74 | 0 | 0 | 1 | 182 |
+| 360d | 2025-12-02 | 0 | 74 | 0 | 0 | 1 | 182 |
+| last720d | 2024-12-07 | 0 | 74 | 0 | 0 | 1 | 193 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:08:11Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:51:00Z._
